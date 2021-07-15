@@ -5,3 +5,10 @@ Mention which methods and techniques to use, advantages and disadvantages of one
 How can the tools be optimized
 
 
+Dr. Jjingo Daudi
+explore more how techniques and methods work on two languages
+how well do the methods and techniques work on the local language
+how to optimize to do intent optimization and entity extraction
+look at methods and how to improve them
+
+
