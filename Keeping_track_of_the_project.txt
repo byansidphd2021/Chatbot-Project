@@ -11,4 +11,5 @@ how well do the methods and techniques work on the local language
 how to optimize to do intent optimization and entity extraction
 look at methods and how to improve them
 
-
+Dr. Jjingo
+How to assign meaning to non-standard words in Luganda. slangs, date currency, acronyms, amounts
