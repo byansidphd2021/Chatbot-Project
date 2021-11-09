@@ -21,3 +21,6 @@ Chatbot Meeting (Mark)
 https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-luganda
 https://huggingface.co/birgermoell/wav2vec2-luganda
 https://cloud.datacrunch.io/signin
+
+https://coast-chatbot-8o2bg.ondigitalocean.app/ (Richard Serunjjoji)
+
