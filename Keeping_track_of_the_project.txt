@@ -15,6 +15,8 @@ Dr. Jjingo
 How to assign meaning to non-standard words in Luganda. slangs, date currency, acronyms, amounts
 
 Dr. Jjingo
+-Uglish in Uganda is a common phenomena which is a viable new ground in terms of Luganda and English
+-Intent classification and Entity extraction in Uglish and Luganda.
 
 
 Chatbot Meeting (Mark)
