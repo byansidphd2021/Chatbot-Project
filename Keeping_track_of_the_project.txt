@@ -13,3 +13,11 @@ look at methods and how to improve them
 
 Dr. Jjingo
 How to assign meaning to non-standard words in Luganda. slangs, date currency, acronyms, amounts
+
+Dr. Jjingo
+
+
+Chatbot Meeting (Mark)
+https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-luganda
+https://huggingface.co/birgermoell/wav2vec2-luganda
+https://cloud.datacrunch.io/signin
