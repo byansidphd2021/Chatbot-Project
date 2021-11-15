@@ -26,3 +26,15 @@ https://cloud.datacrunch.io/signin
 
 https://coast-chatbot-8o2bg.ondigitalocean.app/ (Richard Serunjjoji)
 
+Dr. Jjingo
+What you need to do now is to write a coherent literature overview and summary from those references (atleast those you consider most important).
+
+What that means is you first summarise each paper into a few lines that cover the gap they were addressing, the approach they used and the results they got. After that you then write a coherent overarching literature overview that synthesises/arranges all the above mentioned summaries into a coherent, logically flowing story (which shows how one problem/solution led or leads to another problem/solution/gap) and culminates into the gap/problem that you will be solving.
+
+Check if one of the references on your list is a "Review" paper. If it is, it will give you a sense of what Iam describing above.
+
+This will form the template for your eventual thesis and journal paper(s).
+
+Best Wishes,
+
+~Daudi
