@@ -38,3 +38,5 @@ This will form the template for your eventual thesis and journal paper(s).
 Best Wishes,
 
 ~Daudi
+
+https://github.com/aceuganda/idi_faq_mvp
