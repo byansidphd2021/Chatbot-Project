@@ -40,3 +40,7 @@ Best Wishes,
 ~Daudi
 
 https://github.com/aceuganda/idi_faq_mvp
+
+Machine Learning Models
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc  (Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition)
+https://www.lexalytics.com/lexablog/machine-learning-natural-language-processing   (Machine Learning (ML) for Natural Language Processing (NLP))
